@@ -8,7 +8,7 @@
 │     ├── Sales_January_2019.csv
 │     │   ...
 │     ├── Sales_November_2019.csv
-│     ├── Sales_December_2019.csv
+│     └── Sales_December_2019.csv
 │
 ├──── images/	# imagoes used for markdown file
 │     ├── Dashboard.png
@@ -16,14 +16,14 @@
 │     ├── cohort.png
 │     ├── heatmap.png
 │     ├── prod and city performance by revenue and total orders.png
-│     ├── aov trend.png
+│     └── aov trend.png
 │
 ├── archive.zip	 # Raw data
 ├── link.txt	 # link to kaggle
 ├── logs.xlsx	 # logs of issues and resolutions taken
 ├── Electronic_Store_jupyternotebook.ipynb
 ├── script.py
-├── tableau		 # Dashboard workbook
-├── report.pdf
-├── README.md
+├── Electronics Store Sales Analysis Dashboard - 2019.twbx		 # Dashboard workbook
+├── electronic store report - 2019.pdf
+└── README.md
 ```
