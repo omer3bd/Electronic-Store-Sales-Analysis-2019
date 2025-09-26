@@ -34,7 +34,7 @@ Insights and Recommendations are provided for the following areas:
 
 An interactive **Tableau Dashboard** can be used [here](https://github.com/omer3bd/Electronic-Store-Sales-Analysis-2019/blob/master/Electronic_Store_jupyternotebook%20.ipynb).
 The **Jupyter Notebook** used to clean, organize and prepare data for the dashboard can be
-found [here] and an **automated python script** can be found [here](https://github.com/omer3bd/Electronic-Store-Sales-Analysis-2019/blob/master/script.py).
+found [here](https://github.com/omer3bd/Electronic-Store-Sales-Analysis-2019/blob/master/Electronic_Store_jupyternotebook%20.ipynb) and an **automated python script** can be found [here](https://github.com/omer3bd/Electronic-Store-Sales-Analysis-2019/blob/master/script.py).
 
 
 
